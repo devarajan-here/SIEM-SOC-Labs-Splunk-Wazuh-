@@ -1,39 +1,56 @@
-# SIEM-SOC-Labs-Splunk-Wazuh-
-Hands-on SOC projects focused on SIEM deployment, log analysis, and threat detection
-What I built:
+# SIEM-SOC-Labs-Splunk-Wazuh
 
-Deployed Splunk Enterprise with Linux & Windows log onboarding
+Hands-on **SOC and Blue Team projects** focused on **SIEM deployment, log analysis, threat detection, and incident investigation**.  
+This repository demonstrates practical, analyst-level skills aligned with real SOC workflows.
 
-Integrated Zeek IDS for DNS, HTTP, and network traffic analysis
+---
 
-Built SPL queries for SSH brute force, DNS anomalies, and web attacks
+## 🔹 What I Built
 
-Deployed Wazuh SIEM with Windows & Ubuntu agents
+- Deployed **Splunk Enterprise SIEM** with Linux and Windows log onboarding  
+- Integrated **Zeek IDS** for DNS, HTTP, and network traffic visibility  
+- Built **SPL detections** for:
+  - SSH brute-force attacks  
+  - DNS anomalies and suspicious domains  
+  - Web exploitation attempts  
+- Deployed **Wazuh SIEM** with Windows and Ubuntu agents  
+- Validated key SOC use cases:
+  - File Integrity Monitoring (FIM)  
+  - Brute-force detection  
+  - Vulnerability detection  
+- Completed the **30 Days SOC Challenge** (SIEM, logs, phishing, malware, threat intelligence)
 
-Validated FIM, brute-force detection, vulnerability detection
+---
 
-Completed 30 Days SOC Challenge (logs, phishing, malware, threat intel)
+## 🔹 Core Skills Demonstrated
 
-Skills:
-SIEM • Log Analysis • Threat Hunting • SOC Operations • Blue Team
+**SIEM • Log Analysis • Threat Hunting • SOC Operations • Blue Team**
 
-Remaining SOC Modules (Non-SIEM)
+---
 
-Completed hands-on SOC modules covering endpoint logs, network traffic, phishing, malware, threat intelligence, and basic forensics.
+## 🔹 Remaining SOC Modules (Non-SIEM)
 
-Covered areas:
+Hands-on SOC modules covering **endpoint security, network analysis, phishing, malware analysis, threat intelligence, and basic forensics**.
 
-Windows & Linux log analysis (auth failures, RDP, PowerShell)
+### Covered Areas
 
-Network traffic analysis using Wireshark
+- Windows & Linux log analysis (authentication failures, RDP, PowerShell)  
+- Network traffic analysis using **Wireshark**  
+- Phishing email investigation and **IOC extraction**  
+- Malware analysis workflow (static & dynamic using **EICAR**)  
+- Threat intelligence pivoting (hash, IP, domain)  
+- SOC-style incident documentation and evidence collection  
 
-Phishing email investigation and IOC extraction
+---
 
-Malware analysis workflow (static & dynamic using EICAR)
+## 🔹 Additional Skills
 
-Threat intelligence pivoting (hash, IP, domain)
+**Incident Analysis • Threat Intelligence • Phishing Analysis • Malware Basics • Network Analysis**
 
-SOC incident documentation and evidence collection
+---
 
-Skills:
-Incident Analysis • Threat Intel • Phishing Analysis • Malware Basics • Network Analysis
+## 🔹 Objective
+
+To build and document **practical SOC analyst skills** through hands-on labs, realistic detections, and structured investigation workflows suitable for **SOC Analyst (L0/L1) roles**.
+
+---
